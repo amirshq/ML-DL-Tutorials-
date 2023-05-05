@@ -20,7 +20,7 @@ Computer Vision
 Usage
 You are free to use and learn from the projects in this repository. You can download the entire project or individual files and modify them as per your requirements. I have also provided necessary documentation for each project, including code explanations and usage instructions.
 
-Contributions
+Contributions:
 I welcome contributions and suggestions to improve any of the projects in this repository. You can fork this repository, make the necessary changes, and create a pull request. Please make sure to follow the best practices for contributing to open-source projects.
 
 Contact
