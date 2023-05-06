@@ -17,7 +17,8 @@ Convolutional Neural Networks
 Recurrent Neural Networks
 Natural Language Processing
 Computer Vision
-Usage
+
+Usage:
 You are free to use and learn from the projects in this repository. You can download the entire project or individual files and modify them as per your requirements. I have also provided necessary documentation for each project, including code explanations and usage instructions.
 
 Contributions:
