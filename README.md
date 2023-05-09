@@ -27,4 +27,4 @@ I welcome contributions and suggestions to improve any of the projects in this r
 Contact
 If you have any questions or feedback regarding any of the projects in this repository, please feel free to contact me. My contact information can be found in my profile.
 
-Thank you for visiting my repository! Happy learning
+Thank you for visiting my repository! Happy learning.
