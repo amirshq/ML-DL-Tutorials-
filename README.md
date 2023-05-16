@@ -1,7 +1,7 @@
 # ML-DL-Tutorials-
 ML and DL Tutorials 
 Read Me
-Welcome to my machine learning and deep learning repository! Here, I will be sharing various projects related to ML and DL that I have completed for tutorials and learning purposes.
+Welcome to my machine learning and deep learning repository! Here, I will be sharing various projects related to ML and DL that I have completed for tutorials and learning purposes
 
 Purpose
 The purpose of this repository is to provide a platform where anyone can access my projects related to machine learning and deep learning. These projects can be used as a learning resource for beginners, intermediate and advanced learners who are interested in ML and DL.
