@@ -4,7 +4,7 @@ Read Me
 Welcome to my machine learning and deep learning repository! Here, I will be sharing various projects related to ML and DL that I have completed for tutorials and learning purposes.
 
 Purpose
-The purpose of this repository is to provide a platform where anyone can access my projects related to machine learning and deep learning. These projects can be used as a learning resource for beginners, intermediate and advanced learners who are interested in ML and DL
+The purpose of this repository is to provide a platform where anyone can access my projects related to machine learning and deep learning. These projects can be used as a learning resource for beginners, intermediate and advanced learners who are interested in ML and DL.
 
 Projects
 I will be uploading projects related to different topics of machine learning and deep learning, including but not limited to:
