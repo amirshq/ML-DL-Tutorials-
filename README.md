@@ -9,7 +9,7 @@ The purpose of this repository is to provide a platform where anyone can access 
 Projects
 I will be uploading projects related to different topics of machine learning and deep learning, including but not limited to:
 
-Supervised Learning (SVM,)
+Supervised Learning (SVM)
 Unsupervised Learning
 Reinforcement Learning
 Neural Networks
