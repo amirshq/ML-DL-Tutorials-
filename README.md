@@ -12,11 +12,11 @@ I will be uploading projects related to different topics of machine learning and
 Supervised Learning (SVM)
 Unsupervised Learning
 Reinforcement Learning
-Neural Networks
+Neural Networks.
 Convolutional Neural Networks
 Recurrent Neural Networks
 Natural Language Processing
-Computer Vision.
+Computer Vision
 
 Usage:
 You are free to use and learn from the projects in this repository. You can download the entire project or individual files and modify them as per your requirements. I have also provided necessary documentation for each project, including code explanations and usage instructions.
